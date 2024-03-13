@@ -8,8 +8,8 @@
 -----------------------------------------------------------------------------------------
 
 
-- 🏀 I am developing an NBA statistics website. [NBA](https://m3l.es/NBA)
-- 🌱 I’m currently learning **Ethical hacking, software development**
+- 🏀 I am developing an NBA statistics website. 
+- 🌱 I’m currently learning **Ethical hacking and software development**
 
 
 -----------------------------------------------------------------------------------------
