@@ -22,9 +22,23 @@
 
 
 <br>
-<div align="right">Connect with me: <a href="https://linkedin.com/in/alejandro-meléndez-526795291" target="_blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandro-meléndez-526795291" height="30" width="40" /></a>
+<div align="right">Connect with me: <a href="https://linkedin.com/in/alejandro-meléndez-526795291" target="_blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandro-meléndez-526795291" height="30" width="40" /></a></div>
 
 -----------------------------------------------------------------------------------------
 
 
+
+## 📊 Github Profile Stats
+
+  <br/>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amlndz&theme=algolia" alt="amlndz"  />
+	  <img alt="Alejandro's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amlndz&show_icons=true&count_private=true&theme=algolia" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amlndz&show_icons=true&locale=en&layout=compact&theme=algolia" alt="amlndz" height="192px"/>
+    <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+
+
+<br/>
 
