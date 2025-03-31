@@ -7,7 +7,6 @@
 -----------------------------------------------------------------------------------------
 
 <div align="center" style="display: flex; align-items: center; gap: 20px;">
-    <img src="https://github.com/user-attachments/assets/d07eab4f-ef39-4efa-8f99-1879d7c04775" alt="Alejandro Melendez" width="150" style="border-radius: 50%;" />
     <div align="left">
       <h2>🌟 Sobre mí</h2>
       <ul>
